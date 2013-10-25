@@ -9,11 +9,8 @@
         <!-- Basic Page Needs
   ================================================== -->
         <meta charset="utf-8">
-<<<<<<< HEAD
+
         <title>AR</title>
-=======
-        <title>AR</title>
->>>>>>> 0a6a6b7ee1b0f25d8be5c6d3504fcabc46ddd952
         <meta name="description" content="">
         <meta name="author" content="">
 
