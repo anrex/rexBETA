@@ -9,10 +9,10 @@ function google() {
 	$beta = 'UA-44001529-1';
 	$server = 'na';
 
-	if ($urlServer === 'beta') {
-		$server = $beta;
-	} else {
+	if ($urlServer === 'anal') {
 		$server = $live;
+	} else {
+		$server = $beta;
 
 	}
 
