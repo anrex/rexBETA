@@ -7,6 +7,7 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 
 <!-- site by Destin Lee aka dleeinc and Jon Daniels -->
+<!--Whaaat!-->
 
 <?php include 'scripts/url.php'; ?>
 
