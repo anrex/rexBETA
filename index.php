@@ -15,7 +15,7 @@
   ================================================== -->
         <meta charset="utf-8">
 
-        <title>AR<title>
+        <title>AR</title>
         <meta name="description" content="">
         <meta name="author" content="">
 
