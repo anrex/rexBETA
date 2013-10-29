@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- yo this be dleeinc.com hit me with the needz son -->
 
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
@@ -7,7 +6,6 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 
 <!-- site by Destin Lee aka dleeinc and Jon Daniels -->
-<!--Whaaat!-->
 
 <?php include 'scripts/url.php'; ?>
 
