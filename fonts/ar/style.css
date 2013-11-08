@@ -1,0 +1,49 @@
+@font-face {
+	font-family: 'ar';
+	src:url('fonts/ar.eot');
+	src:url('fonts/ar.eot?#iefix') format('embedded-opentype'),
+		url('fonts/ar.ttf') format('truetype'),
+		url('fonts/ar.woff') format('woff'),
+		url('fonts/ar.svg#ar') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class*="icon-"] {
+	font-family: 'ar';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-iTunes:before {
+	content: "\e600";
+}
+.icon-tube:before {
+	content: "\e601";
+}
+.icon-tubeText:before {
+	content: "\e602";
+}
+.icon-contact:before {
+	content: "\e603";
+}
+.icon-arLogo:before {
+	content: "\e604";
+}
+.icon-soundcloud3:before {
+	content: "\e605";
+}
+.icon-fb:before {
+	content: "\e606";
+}
+.icon-tweet:before {
+	content: "\e607";
+}
